@@ -1,0 +1,14 @@
+{
+  "name": "cypress-cucumber",
+  "version": "1.0.0",
+  "description": "Sample simple project with these two techs.",
+  "license": "ISC",
+  "scripts": {
+    "init": "bash init.sh",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^6.3.0"
+  }
+}
