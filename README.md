@@ -10,6 +10,6 @@ Sample simple project with these two techs.
 
 ## Steps
 
- - Run `npm run init.sh`. It will prompt for password.
  - Run `npm install`
+ - Run `npm run init`. It will prompt for password.
  - Run `npm run cypress:open`
